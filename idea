@@ -1,0 +1,10 @@
+for rendering the sites
+already have token or not?
+if not, render guess component
+if yes, render as auth user component
+
+is visitor owning the feed / user page or not?
+check on their login username, so the username would be kept on redux store
+after 
+if not owner, render visitor component
+if yes, render owner component
